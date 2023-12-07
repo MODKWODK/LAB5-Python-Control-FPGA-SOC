@@ -4,6 +4,12 @@
 * lab4 在caravel SOC 驗證，缺點耗時
 * lab5 FPGA模擬各IP(lab4中caravel soc ip) 配合ps python加快模擬
 
+**LAB5 目的**  
+1. 從LAB4-1了解MMIO&Firmware Code將LAB4-1的功能轉換為Harward
+2. 將verilog testbench用python Code 取代
+3. testbench 內的功能轉換為FPGA硬體
+
+
 ## **簡單執行**
 ### 1. 安裝包下載
 https://github.com/bol-edu/caravel-soc_fpga-lab/tree/main/labi
