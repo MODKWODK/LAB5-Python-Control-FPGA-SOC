@@ -19,15 +19,18 @@ https://github.com/bol-edu/caravel-soc_fpga-lab/tree/main/labi
 ![image](https://hackmd.io/_uploads/ryrHPaCra.png)
 ### 4. 模擬結果如下
 * Counter_wb
+
  ![image](https://hackmd.io/_uploads/ryYV_aAST.png)
  ![image](https://hackmd.io/_uploads/r1bfYTCB6.png)
 
 
 * Counter_la.hex
+
 ![image](https://hackmd.io/_uploads/HyGf20CB6.png)
 ![image](https://hackmd.io/_uploads/rkczhRABp.png)
 
 * gcd_la.hex
+
 ![image](https://hackmd.io/_uploads/SkeN2C0Sp.png)
 ![image](https://hackmd.io/_uploads/BJnIaCRSa.png)
    
